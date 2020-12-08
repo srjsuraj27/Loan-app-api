@@ -1,27 +1,39 @@
 <!-- RedCarpet Task: Loan Management System -->
 
-API is built using Node.js and MongoDB
+-- API is built using Node.js and MongoDB
 
-To Run Application through Docker, run following commands in project directory
-    docker build -t <DockerId>/<project_foldername> .
-    docker run <DockerId>/<project_foldername>
+-- To Run Application through Docker, run following commands in project directory
+    
+    -- docker build -t <DockerId>/<project_foldername> .
+    
+    -- docker run <DockerId>/<project_foldername>
 
 -- To Run Application through npm, run following commands in project directory
+	
 	-- npm install
+	
 	-- npm start
 
 -- Admin Credential:
+    
     Email: suraj.admin@gmail.com
+    
     password: surajadmin
 
 -- Agent Credential:
+    
     Email: neeraj.agent@gmail.com
+    
     password: neerajagent
 
 -- Customer Credentials:
+    
     1. Email: ramesh@gmail.com, password: ramesh
+    
     2. Email: kumar@gmail.com, password: kumar
+    
     3. Email: suresh@gmail.com, password: suresh
+    
     4. Email: sanjay@gmail.com, password: sanjay
 
 -- TestCases:
