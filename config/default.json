@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://loanapp:loanapp@cluster0.legoh.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"VDhU@uG=!mG6j[Ng"
+}
